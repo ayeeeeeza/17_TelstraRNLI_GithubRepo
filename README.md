@@ -1,7 +1,7 @@
 # Sprint Artifacts
 - Please place your sprint artifacts in the correct folders
 - any artifacts that require public view should be placed outside the name-specific folders for easier search
-- you can push documents in main
+- you can push documents in main, just make sure to use the conventional way of commenting (docs: *insert comment*)
 - if possible, refrain from publishing .pdf files
 - each folder has a readme.file for you guys to use, in the #extraFYI section, feel free to put any notes that you want people to know regarding the content of any specific file, or regarding anything in general
 
